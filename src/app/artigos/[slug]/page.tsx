@@ -5,7 +5,6 @@ import {
   getAllPosts,
   getPostBySlug,
   getRelated,
-  formatDate,
   slugifyTag,
 } from "@/lib/posts";
 import { categoryMeta, SITE } from "@/lib/site";
@@ -79,9 +78,10 @@ export default async function ArticlePage({ params }: Params) {
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
 
-      {/* breadcrumb */}
       <nav className="text-xs text-soft mb-4" aria-label="Breadcrumb">
-        <Link href="/" className="hover:text-accent">Início</Link>
+        <Link href="/" className="hover:text-accent">
+          Início
+        </Link>
         <span className="mx-2">/</span>
         <Link href={`/categoria/${post.categorySlug}`} className="hover:text-accent">
           {meta.name}
@@ -90,8 +90,6 @@ export default async function ArticlePage({ params }: Params) {
         <span className="text-ink/60">{post.title}</span>
       </nav>
 
-
-      {/* cabeçalho */}
       <header className="mb-8">
         <Link
           href={`/categoria/${post.categorySlug}`}
@@ -104,21 +102,17 @@ export default async function ArticlePage({ params }: Params) {
         </h1>
         <p className="text-soft mt-3 text-lg leading-relaxed">{post.description}</p>
         <p className="text-xs text-soft/80 mt-4">
-          Publicado em {formatDate(post.date)} · Atualizado em {formatDate(post.updated)} ·{" "}
           {post.readingTime} min de leitura · Por {SITE.author}
         </p>
       </header>
 
-      {/* corpo do artigo */}
       <div
         className="article-body"
         dangerouslySetInnerHTML={{ __html: post.html }}
       />
 
-      {/* aviso de segurança (automático em todo artigo) */}
       <SafetyNotice />
 
-      {/* tags */}
       {post.tags.length > 0 && (
         <section className="mt-8 pt-6 border-t border-[#eae5dc]">
           <p className="text-xs font-semibold tracking-[0.2em] text-soft uppercase mb-3">
@@ -138,12 +132,9 @@ export default async function ArticlePage({ params }: Params) {
         </section>
       )}
 
-      {/* relacionados */}
       {related.length > 0 && (
         <section className="mt-12 pt-8 border-t border-[#eae5dc]">
-          <h2 className="font-display text-2xl font-extrabold mb-6">
-            Continue lendo
-          </h2>
+          <h2 className="font-display text-2xl font-extrabold mb-6">Continue lendo</h2>
           <div className="grid sm:grid-cols-3 gap-5 -mx-4 sm:mx-0">
             {related.map((p) => (
               <PostCard key={p.slug} post={p} variant="compact" />
