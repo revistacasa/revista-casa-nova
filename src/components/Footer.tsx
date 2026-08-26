@@ -8,9 +8,14 @@ export default function Footer() {
     <footer className="bg-ink text-paper mt-20">
       <div className="max-w-6xl mx-auto px-4 py-12 grid md:grid-cols-3 gap-10">
         <div>
-          <p className="font-display text-2xl font-extrabold">
-            Casa<span className="text-accent">Nova</span>
-          </p>
+          <Link href="/" className="inline-block">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src="/rc-logo.png"
+              alt="Revista Casa Nova"
+              className="h-14 w-auto"
+            />
+          </Link>
           <p className="text-sm text-paper/60 mt-3 leading-relaxed">
             Guias práticos e confiáveis para reformar, organizar, decorar e
             cuidar da sua casa — do básico ao avançado.
@@ -38,11 +43,31 @@ export default function Footer() {
             Institucional
           </p>
           <ul className="flex flex-col gap-2 text-sm">
-            <li><Link href="/sobre" className="text-paper/75 hover:text-accent">Sobre nós</Link></li>
-            <li><Link href="/contato" className="text-paper/75 hover:text-accent">Contato</Link></li>
-            <li><Link href="/politica-de-privacidade" className="text-paper/75 hover:text-accent">Política de Privacidade</Link></li>
-            <li><Link href="/politica-de-cookies" className="text-paper/75 hover:text-accent">Política de Cookies</Link></li>
-            <li><Link href="/disclaimer" className="text-paper/75 hover:text-accent">Disclaimer</Link></li>
+            <li>
+              <Link href="/sobre" className="text-paper/75 hover:text-accent">
+                Sobre nós
+              </Link>
+            </li>
+            <li>
+              <Link href="/contato" className="text-paper/75 hover:text-accent">
+                Contato
+              </Link>
+            </li>
+            <li>
+              <Link href="/politica-de-privacidade" className="text-paper/75 hover:text-accent">
+                Política de Privacidade
+              </Link>
+            </li>
+            <li>
+              <Link href="/politica-de-cookies" className="text-paper/75 hover:text-accent">
+                Política de Cookies
+              </Link>
+            </li>
+            <li>
+              <Link href="/disclaimer" className="text-paper/75 hover:text-accent">
+                Disclaimer
+              </Link>
+            </li>
           </ul>
         </div>
       </div>

@@ -83,14 +83,14 @@ export default function DestaqueRotativo({ posts }: { posts: DestaqueCard[] }) {
         </div>
       </Link>
 
-      <div className="grid grid-cols-2 lg:grid-cols-1 gap-4 content-start">
+      <div className="grid grid-cols-1 gap-4 content-start">
         {sidePosts.map((p) => (
           <Link
             key={p.slug}
             href={`/artigos/${p.slug}`}
             className="group flex gap-3 bg-white rounded-xl overflow-hidden border border-[#eae5dc] hover:border-accent/40 hover:shadow-md transition-all"
           >
-            <div className="relative w-28 shrink-0 overflow-hidden">
+            <div className="relative w-32 h-24 shrink-0 overflow-hidden">
               {p.cover ? (
                 // eslint-disable-next-line @next/next/no-img-element
                 <img src={p.cover} alt={p.title} className="w-full h-full object-cover" />
@@ -102,7 +102,7 @@ export default function DestaqueRotativo({ posts }: { posts: DestaqueCard[] }) {
                 </div>
               )}
             </div>
-            <div className="py-3 pr-3">
+            <div className="py-3 pr-3 min-w-0 flex-1">
               <p className="text-[10px] font-semibold text-accent uppercase tracking-wide">
                 {categoryMeta(p.categorySlug).name}
               </p>
