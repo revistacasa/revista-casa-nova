@@ -22,14 +22,18 @@ export default function Header() {
   return (
     <header className="bg-ink text-paper sticky top-0 z-50 shadow-md">
       <div className="max-w-6xl mx-auto px-4">
-        <div className="flex items-center justify-between py-4 gap-4">
-          <Link href="/" className="leading-tight shrink-0" onClick={() => setOpen(false)}>
-            <span className="font-display text-2xl font-extrabold tracking-tight">
-              Casa<span className="text-accent">Nova</span>
-            </span>
-            <span className="block text-[10px] font-sans tracking-[0.3em] text-paper/50 uppercase">
-              Revista
-            </span>
+        <div className="flex items-center justify-between py-3 gap-4">
+          <Link
+            href="/"
+            className="shrink-0 flex items-center"
+            onClick={() => setOpen(false)}
+          >
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src="/rc-logo.png"
+              alt="Revista Casa Nova"
+              className="h-[72px] md:h-20 w-auto"
+            />
           </Link>
 
           <nav className="hidden md:flex items-center flex-wrap justify-end gap-x-4 gap-y-1 text-sm font-medium">
