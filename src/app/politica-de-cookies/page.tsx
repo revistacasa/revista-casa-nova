@@ -3,7 +3,7 @@ import { SITE } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Política de Cookies",
-  description: `Como a ${SITE.name} usa cookies para métricas e publicidade.`,
+  description: `Como a ${SITE.name} usa cookies para métricas e, no futuro, publicidade.`,
   alternates: { canonical: `${SITE.url}/politica-de-cookies` },
 };
 
@@ -21,23 +21,32 @@ export default function CookiesPage() {
 
       <p className="mt-6">
         Cookies são pequenos arquivos de texto que um site pode guardar no seu
-        navegador. Esta página diz o que usamos <strong>hoje</strong> e o que
-        poderá ser usado no futuro.
+        navegador. Esta página diz o que está ligado e o que ainda não está.
       </p>
 
-      <H>1. O que está ativo agora</H>
+      <H>1. O que está ativo</H>
       <p>
-        Não usamos cookies de medição (Google Analytics) nem cookies de
-        publicidade. O site pode usar apenas o que o próprio navegador e o
-        servidor precisam para abrir as páginas — sem te identificar.
+        Usamos cookies de medição do <strong>Google Analytics 4</strong> para
+        saber, de forma agregada, quais páginas são mais lidas. Não usamos
+        cookies de publicidade. O servidor também pode usar o mínimo necessário
+        para abrir as páginas.
       </p>
 
-      <H>2. Cookies de medição (ainda não ativos)</H>
+      <H>2. Cookies de medição</H>
       <p>
-        Se no futuro usarmos o Google Analytics, cookies ajudarão a saber,
-        de forma agregada, quais páginas são mais lidas. Essa coleta{" "}
-        <strong>não está ligada hoje</strong>. Quando for ligada, esta página
-        será atualizada.
+        O Google Analytics guarda cookies no seu navegador (em geral com nomes
+        que começam com <code>_ga</code>). Eles ajudam a distinguir visitas, sem
+        nos dizer quem você é. O Google processa esses dados. Você pode apagá-los
+        ou bloqueá-los no navegador; o site continua abrindo. Também existe a{" "}
+        <a
+          href="https://tools.google.com/dlpage/gaoptout"
+          target="_blank"
+          rel="noopener nofollow"
+          className="text-accent underline"
+        >
+          extensão de desativação do Google Analytics
+        </a>
+        .
       </p>
 
       <H>3. Cookies de publicidade (ainda não ativos)</H>
@@ -64,8 +73,8 @@ export default function CookiesPage() {
 
       <H>5. Consentimento</H>
       <p>
-        Ao navegar hoje, você não está aceitando cookies de medição nem de
-        anúncio — eles não estão ligados. Quando forem, um aviso aparecerá
+        Ao navegar, os cookies de medição descritos acima podem ser gravados.
+        Cookies de anúncio não estão ligados. Quando forem, um aviso aparecerá
         antes, quando a lei exigir. Veja também a nossa{" "}
         <a href="/politica-de-privacidade" className="text-accent underline">
           Política de Privacidade

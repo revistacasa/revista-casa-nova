@@ -27,7 +27,7 @@ export default function PrivacyPage() {
         13.709/2018).
       </p>
 
-      <H>1. Quais dados coletamos hoje</H>
+      <H>1. Quais dados coletamos</H>
       <ul className="list-disc pl-6 flex flex-col gap-2">
         <li>
           <strong>Dados que você nos envia:</strong> quando entra em contato por
@@ -41,10 +41,12 @@ export default function PrivacyPage() {
           abuso. Não usamos isso para te identificar.
         </li>
         <li>
-          <strong>Google Analytics e cookies de medição:</strong>{" "}
-          <em>não estão ativos neste momento</em>. Se passarmos a usá-los, esta
-          página será atualizada antes, e — quando a lei exigir — um aviso de
-          consentimento aparecerá no site.
+          <strong>Google Analytics 4:</strong> usamos o serviço do Google para
+          saber, de forma agregada, quais páginas são lidas, por quanto tempo,
+          de que tipo de aparelho e de que cidade aproximada. Isso não nos diz
+          o seu nome nem o seu e-mail. O Google processa esses dados segundo a
+          política dele. Você pode bloquear essa medição nas configurações do
+          navegador ou com a extensão de desativação do Google Analytics.
         </li>
       </ul>
 
@@ -79,8 +81,10 @@ export default function PrivacyPage() {
         <li>Responder às suas mensagens;</li>
         <li>Manter o site no ar e seguro;</li>
         <li>
-          No futuro: melhorar o conteúdo, entender quais assuntos interessam
-          mais e, se houver anúncios, medi-los — sempre com esta política
+          Entender quais guias ajudam de verdade, para melhorar o conteúdo;
+        </li>
+        <li>
+          No futuro, se houver anúncios, medi-los — sempre com esta política
           atualizada.
         </li>
       </ul>
@@ -99,7 +103,8 @@ export default function PrivacyPage() {
       <p>
         Não pedimos dados sensíveis. Mensagens de e-mail ficam só o tempo
         necessário para responder. Logs do servidor seguem a política do
-        provedor de hospedagem.
+        provedor de hospedagem. Os relatórios do Analytics ficam na conta
+        Google da revista, de forma agregada.
       </p>
 
       <H>7. Alterações desta política</H>
