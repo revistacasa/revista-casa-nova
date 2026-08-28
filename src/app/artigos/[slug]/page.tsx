@@ -10,10 +10,13 @@ import {
 import { categoryMeta, SITE } from "@/lib/site";
 import PostCard from "@/components/PostCard";
 import SafetyNotice from "@/components/SafetyNotice";
+import CalculadoraTinta from "@/components/CalculadoraTinta";
 
 interface Params {
   params: Promise<{ slug: string }>;
 }
+
+const TOOL_MARKER = "<!-- tool:calculadora-tinta -->";
 
 export function generateStaticParams() {
   return getAllPosts().map((p) => ({ slug: p.slug }));
@@ -56,6 +59,7 @@ export default async function ArticlePage({ params }: Params) {
 
   const meta = categoryMeta(post.categorySlug);
   const related = getRelated(post, 3);
+  const chunks = post.html.split(TOOL_MARKER);
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -101,15 +105,25 @@ export default async function ArticlePage({ params }: Params) {
           {post.title}
         </h1>
         <p className="text-soft mt-3 text-lg leading-relaxed">{post.description}</p>
-        <p className="text-xs text-soft/80 mt-4">
+        <p className="text-xs text-soft mt-4">
           {post.readingTime} min de leitura · Por {SITE.author}
         </p>
       </header>
 
       <div
         className="article-body"
-        dangerouslySetInnerHTML={{ __html: post.html }}
+        dangerouslySetInnerHTML={{ __html: chunks[0] }}
       />
+      {chunks.length > 1 && <CalculadoraTinta />}
+      {chunks.length > 1 && (
+        <div
+          className="article-body"
+          dangerouslySetInnerHTML={{ __html: chunks.slice(1).join("") }}
+        />
+      )}
+      {chunks.length === 1 && slug === "pintar-parede-sem-marca" && (
+        <CalculadoraTinta />
+      )}
 
       <SafetyNotice />
 
