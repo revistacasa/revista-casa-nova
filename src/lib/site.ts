@@ -25,47 +25,55 @@ export const SITE = {
 
 export const CATEGORIES: Record<
   string,
-  { name: string; emoji: string; gradient: string }
+  { name: string; emoji: string; gradient: string; image: string }
 > = {
   reformas: {
     name: "Reformas",
     emoji: "🔨",
     gradient: "from-[#b4552d] to-[#8a3d1f]",
+    image: "/images/categorias/reformas.jpg",
   },
   "diy-faca-voce-mesmo": {
     name: "DIY — Faça você mesmo",
     emoji: "🛠️",
     gradient: "from-[#5a7d6a] to-[#3d5a4c]",
+    image: "/images/categorias/diy-faca-voce-mesmo.jpg",
   },
   decoracao: {
     name: "Decoração",
     emoji: "🛋️",
     gradient: "from-[#a8763e] to-[#7a5427]",
+    image: "/images/categorias/decoracao.jpg",
   },
   cozinha: {
     name: "Cozinha",
     emoji: "🍳",
     gradient: "from-[#b4552d] to-[#a8763e]",
+    image: "/images/categorias/cozinha.jpg",
   },
   jardim: {
     name: "Jardim",
     emoji: "🌿",
     gradient: "from-[#5a7d6a] to-[#7ba888]",
+    image: "/images/categorias/jardim.jpg",
   },
   ambientes: {
     name: "Ambientes",
     emoji: "🏠",
     gradient: "from-[#6b635a] to-[#4a443d]",
+    image: "/images/categorias/ambientes.jpg",
   },
   compras: {
     name: "Compras",
     emoji: "🛒",
     gradient: "from-[#8a6d3b] to-[#6b5429]",
+    image: "/images/categorias/compras.jpg",
   },
   "produtos-reviews": {
     name: "Produtos e Reviews",
     emoji: "⭐",
     gradient: "from-[#4a443d] to-[#201d1a]",
+    image: "/images/categorias/produtos-reviews.jpg",
   },
 };
 
@@ -75,6 +83,7 @@ export function categoryMeta(slug: string) {
       name: slug.replace(/-/g, " "),
       emoji: "📌",
       gradient: "from-[#8a8378] to-[#5a554d]",
+      image: "",
     }
   );
 }

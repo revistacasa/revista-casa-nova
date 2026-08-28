@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import { getAllPosts, getCategorySlugs } from "@/lib/posts";
 import { categoryMeta, SITE } from "@/lib/site";
 import PostCard from "@/components/PostCard";
@@ -60,13 +61,26 @@ export default function HomePage() {
               <Link
                 key={c}
                 href={`/categoria/${c}`}
-                className={`group bg-gradient-to-br ${meta.gradient} text-white rounded-xl p-5 hover:scale-[1.02] hover:shadow-lg transition-all`}
+                className="group relative block overflow-hidden rounded-xl aspect-[16/10] min-h-[9.5rem] text-paper hover:shadow-lg hover:scale-[1.02] transition-all"
               >
-                <span className="text-3xl block mb-2">{meta.emoji}</span>
-                <p className="font-display font-bold leading-tight">{meta.name}</p>
-                <p className="text-xs text-white/70 mt-1">
-                  {count} artigo{count === 1 ? "" : "s"}
-                </p>
+                {meta.image ? (
+                  <Image
+                    src={meta.image}
+                    alt=""
+                    fill
+                    sizes="(max-width: 768px) 50vw, 25vw"
+                    className="object-cover group-hover:scale-[1.04] transition-transform duration-500"
+                  />
+                ) : (
+                  <div className={`absolute inset-0 bg-gradient-to-br ${meta.gradient}`} />
+                )}
+                <div className="absolute inset-0 bg-gradient-to-t from-[#201d1a]/90 via-[#201d1a]/35 to-[#201d1a]/10" />
+                <div className="relative h-full flex flex-col justify-end p-4">
+                  <p className="font-display font-bold leading-tight">{meta.name}</p>
+                  <p className="text-xs text-paper/80 mt-1">
+                    {count} artigo{count === 1 ? "" : "s"}
+                  </p>
+                </div>
               </Link>
             );
           })}
