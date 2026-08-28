@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { categoryMeta } from "@/lib/site";
 
 export type DestaqueCard = {
@@ -55,11 +56,13 @@ export default function DestaqueRotativo({ posts }: { posts: DestaqueCard[] }) {
       >
         <div className="relative aspect-[16/9] overflow-hidden">
           {featured.cover ? (
-            // eslint-disable-next-line @next/next/no-img-element
-            <img
+            <Image
               src={featured.cover}
               alt={featured.title}
-              className="w-full h-full object-cover group-hover:scale-[1.02] transition-transform duration-500"
+              fill
+              priority
+              sizes="(max-width: 1024px) 100vw, 66vw"
+              className="object-cover group-hover:scale-[1.02] transition-transform duration-500"
             />
           ) : (
             <div
@@ -77,7 +80,7 @@ export default function DestaqueRotativo({ posts }: { posts: DestaqueCard[] }) {
             {featured.title}
           </h2>
           <p className="text-soft mt-3 line-clamp-2">{featured.description}</p>
-          <p className="text-xs text-soft/80 mt-3">
+          <p className="text-xs text-soft mt-3">
             {formatDate(featured.date)} · {featured.readingTime} min de leitura
           </p>
         </div>
@@ -92,8 +95,13 @@ export default function DestaqueRotativo({ posts }: { posts: DestaqueCard[] }) {
           >
             <div className="relative w-32 h-24 shrink-0 overflow-hidden">
               {p.cover ? (
-                // eslint-disable-next-line @next/next/no-img-element
-                <img src={p.cover} alt={p.title} className="w-full h-full object-cover" />
+                <Image
+                  src={p.cover}
+                  alt={p.title}
+                  fill
+                  sizes="128px"
+                  className="object-cover"
+                />
               ) : (
                 <div
                   className={`w-full h-full bg-gradient-to-br ${categoryMeta(p.categorySlug).gradient} flex items-center justify-center`}
@@ -109,7 +117,7 @@ export default function DestaqueRotativo({ posts }: { posts: DestaqueCard[] }) {
               <h3 className="text-sm font-semibold leading-snug group-hover:text-accent transition-colors line-clamp-3">
                 {p.title}
               </h3>
-              <p className="text-[11px] text-soft/80 mt-1">{formatDate(p.date)}</p>
+              <p className="text-[11px] text-soft mt-1">{formatDate(p.date)}</p>
             </div>
           </Link>
         ))}

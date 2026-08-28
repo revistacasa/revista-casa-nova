@@ -1,11 +1,8 @@
 import Link from "next/link";
+import Image from "next/image";
 import { Post, formatDate } from "@/lib/posts";
 import { categoryMeta } from "@/lib/site";
 
-/**
- * Card de artigo. Se o post tiver capa, mostra a imagem;
- * senão, mostra um placeholder elegante (gradiente da categoria + emoji).
- */
 export default function PostCard({
   post,
   variant = "default",
@@ -21,12 +18,12 @@ export default function PostCard({
     >
       <div className={`relative ${variant === "compact" ? "aspect-[16/10]" : "aspect-[16/9]"} overflow-hidden`}>
         {post.cover ? (
-          // eslint-disable-next-line @next/next/no-img-element
-          <img
+          <Image
             src={post.cover}
             alt={post.title}
-            className="w-full h-full object-cover group-hover:scale-[1.03] transition-transform duration-500"
-            loading="lazy"
+            fill
+            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+            className="object-cover group-hover:scale-[1.03] transition-transform duration-500"
           />
         ) : (
           <div className={`w-full h-full bg-gradient-to-br ${meta.gradient} flex items-center justify-center`}>
@@ -46,7 +43,7 @@ export default function PostCard({
         {variant === "default" && (
           <p className="text-sm text-soft mt-2 line-clamp-2">{post.description}</p>
         )}
-        <p className="text-xs text-soft/80 mt-3">
+        <p className="text-xs text-soft mt-3">
           {formatDate(post.date)} · {post.readingTime} min de leitura
         </p>
       </div>

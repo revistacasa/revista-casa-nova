@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { CATEGORIES } from "@/lib/site";
 
 const NAV = Object.entries(CATEGORIES).map(([slug, meta]) => ({
@@ -28,11 +29,13 @@ export default function Header() {
             className="shrink-0 flex items-center"
             onClick={() => setOpen(false)}
           >
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
+            <Image
               src="/rc-logo.png"
               alt="Revista Casa Nova"
+              width={477}
+              height={160}
               className="h-[72px] md:h-20 w-auto"
+              priority
             />
           </Link>
 
