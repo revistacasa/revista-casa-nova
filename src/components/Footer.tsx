@@ -22,6 +22,27 @@ export default function Footer() {
             Guias práticos e confiáveis para reformar, organizar, decorar e
             cuidar da sua casa — do básico ao avançado.
           </p>
+          <a
+            href="https://www.instagram.com/revistacasa.nova/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 mt-4 text-sm text-paper/80 hover:text-accent transition-colors"
+            aria-label="Instagram da Revista Casa Nova (@revistacasa.nova)"
+          >
+            <svg
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              className="w-4 h-4"
+              aria-hidden="true"
+            >
+              <rect x="2" y="2" width="20" height="20" rx="5" />
+              <circle cx="12" cy="12" r="4" />
+              <circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none" />
+            </svg>
+            @revistacasa.nova
+          </a>
         </div>
         <div>
           <p className="text-xs font-semibold tracking-[0.2em] text-paper/70 uppercase mb-3">
