@@ -1,84 +1,105 @@
 ---
-title: "Como instalar prateleira sem ficar torta: o guia pra alvenaria e drywall"
+title: "Como instalar prateleira sem ficar torta: alvenaria e drywall"
 slug: "como-instalar-prateleira"
 date: "2026-08-21"
 updated: "2026-08-21"
 category: "DIY — Faça você mesmo"
 categorySlug: "diy-faca-voce-mesmo"
-tags: ["prateleira", "instalar prateleira", "furar parede", "drywall", "alvenaria", "bucha", "mão francesa"]
-description: "Como instalar prateleira na parede sem ficar torta: identificar alvenaria ou drywall, escolher a bucha, usar o nível de verdade e não furar cano nem conduíte."
+tags: ["prateleira", "furar parede", "drywall", "alvenaria", "bucha", "mão francesa", "faça você mesmo", "nivelar prateleira", "fixação"]
+description: "Passo a passo para instalar prateleira reta e segura: como saber se a parede é alvenaria ou drywall, qual bucha usar, quanto peso aguenta e o que nunca furar."
 cover: "/images/uploads/2026/08/como-instalar-prateleira.jpg"
 ---
 
 <p><img src="/images/uploads/2026/08/como-instalar-prateleira.jpg" alt="Pessoa nivelando uma prateleira de madeira na parede com nível de bolha" /></p>
 
-você já furou a parede no olho, pendurou a prateleira e só percebeu o desnível quando foi colocar o primeiro vaso. Do sofá, do outro lado da sala, aquilo grita. Ou pior: ficou reta na hora e, duas semanas depois, o parafuso folgou, o reboco esfarelou e o vaso foi ao chão.
+A prateleira torta não é “quase reta”: o olho pega o desnível de longe. E a que cai não avisa — o parafuso vai folgando até o suporte arrancar o reboco. Este guia cobre os dois tipos de parede que existem na maior parte das casas brasileiras (**alvenaria** e **drywall**), o material certo e o jeito de marcar, furar e apertar sem deixar o nível mentir.
 
-Não foi falta de jeito. Foi falta de nível — e de bucha certa.
+## Antes de furar: identifique a parede
 
-Instalar prateleira não é obra. Também não é “um furo e um parafuso”. A parede da sua casa é alvenaria ou drywall, e cada uma pede um hardware diferente. A bucha de nylon barata, feita para tijolo, no gesso gira no vazio e não segura nem um porta-retrato.
+Bata de leve com os nós dos dedos.
 
-Este guia não indica marca de suporte. A ideia é você saber que parede é aquela, o que furar, o que nunca furar e como a bolha do nível manda mais do que o teto da casa.
+| O que você ouve / vê | Tipo de parede | O que usar |
+| --- | --- | --- |
+| Som abafado, maciço; pó cinza ou tijolo no furo de teste | Alvenaria (tijolo + reboco) ou concreto | Broca de vídea + bucha de nylon 8 ou 10 mm |
+| Som oco, “tambor”; placa lisa, juntas visíveis | Drywall (gesso acartonado) | **Não** use bucha de alvenaria. Use bucha para oco / basculante, ou parafuso no montante |
+| Azulejo por cima | Alvenaria revestida | Broca de vidia começando **sem impacto**, fita crepe no ponto |
 
-## 1. Antes de ligar a furadeira: descubra a parede
+Se ainda tiver dúvida, faça um furo de teste de 3 mm bem baixo, perto do rodapé (fácil de disfarçar). Pó claro e oco = drywall. Pó de cimento/tijolo = alvenaria.
 
-Bata com os nós dos dedos. Som abafado, maciço, e um furo de teste que solta pó cinza ou de tijolo: alvenaria ou concreto. Som de tambor, placa lisa: drywall.
+**Aviso:** atrás da parede podem passar cano de água e conduíte de luz. Não fure ao lado de interruptores, tomadas, registros nem no eixo vertical de uma torneira no outro lado da parede. Se a parede for de banheiro, cozinha ou área molhada e você não sabe o caminho da hidráulica, **pare e chame um profissional**.
 
-Ainda na dúvida? Um furo de 3 mm, bem baixo, perto do rodapé — fácil de disfarçar. Pó claro e oco confirma o gesso.
+## Materiais e ferramentas
 
-**Aviso:** atrás da parede passam cano e luz. Não fure no eixo de tomada, interruptor, registro, nem na vertical de uma torneira do outro lado. Banheiro e cozinha são os campeões de “achei o cano”. Se você não sabe o caminho da hidráulica, pare. Prateleira se resolve. Cano furado, não.
+Para **uma** prateleira de até 80 cm, carga leve (quadros, plantas pequenas, temperos):
 
-## 2. O que ter à mão (e por que cada coisa)
+- Prateleira (MDF 18 mm ou madeira maciça; evite 15 mm se for livro)
+- 2 suportes (mão francesa) — ou kit de suporte invisível, se a prateleira já vier furada
+- Nível de bolha (o de 40–60 cm ajuda mais que o mini)
+- Trena e lápis
+- Fita crepe
+- Furadeira (alvenaria: com função impacto; drywall: **só rotação**, sem impacto)
+- Broca do mesmo diâmetro da bucha (geralmente 8 mm em alvenaria)
+- Buchas e parafusos compatíveis com a parede (veja a tabela)
+- Óculos de proteção e, em alvenaria, máscara contra pó
 
-Prateleira de MDF 18 mm ou madeira — 15 mm para livro já flexiona no meio. Dois suportes (mão francesa); três se passar de uns 80 cm. Nível de 40 a 60 cm: o mini de chaveiro mente. Trena, lápis, fita crepe. Furadeira com impacto para alvenaria; só rotação no drywall. Broca do diâmetro da bucha (muitas vezes 8 mm). Óculos. Máscara se for alvenaria: pó cinza não é poeira de espanar.
+Para **drywall**, acrescente: detector de metal (ou ímã forte) para achar o montante; buchas específicas para oco (tipo basculante / “borboleta”), **não** a bucha plástica cônica de loja de 1 real.
 
-No drywall, some detector de metal ou ímã forte, e bucha de oco ou basculante. Sem isso, nem comece.
+## Quanto peso a prateleira aguenta (ordem de grandeza)
 
-Livro pesa mais do que parece. Setenta centímetros de lombada passam fácil de 15 kg. Prateleira com mais de 25 cm de fundo vira alavanca: suporte pequenininho é convite para o parafuso vir embora.
+Valores **conservadores**, com carga **distribuída** (não um vaso só na ponta):
 
-Em alvenaria, bucha 8 mm e dois suportes, pense em 15 a 25 kg **espalhados** — não um vaso só na ponta. No drywall, só na placa, sem pegar o perfil de aço: 5 a 8 kg é o limite seguro.
+| Situação | Carga segura (aprox.) |
+| --- | --- |
+| Alvenaria, bucha 8 mm, 2 suportes, vão até 70 cm | 15–25 kg |
+| Alvenaria, bucha 10 mm, 3 suportes, livros | 25–35 kg |
+| Drywall, só na placa, 2 buchas de oco, suporte fixo | 5–8 kg (enfeite, não livro) |
+| Drywall, pelo menos 2 parafusos no **montante** | 12–20 kg, se a prateleira for curta |
 
-## 3. Marque com fita. O teto também mente
+Livros pesam mais do que parece: 70 cm de lombadas facilmente passam de 15 kg. Se a prateleira tiver mais de 80 cm, coloque **três** suportes (um no meio). Prateleira profunda (mais de 25 cm) pede suporte maior — senão ela vira uma alavanca e arranca o parafuso.
 
-Altura confortável para o dia a dia fica entre 1,20 m e 1,50 m do chão — mas é a sua casa. Cole fita crepe na faixa. Riscar na fita não marca o reboco.
+## Passo a passo (alvenaria)
 
-Segure o suporte, ponha o nível **em cima** da prateleira (ou na aba) e mexa até a bolha sentar no meio. Aí a trena entre um furo e outro. Chutar no olho deixa bonita neste canto e torta no outro. O teto da casa também sai de esquadro. O nível é a referência. Não a laje.
+1. **Defina a altura.** Para objetos do dia a dia, entre 1,20 m e 1,50 m do chão costuma ser confortável. Marque um ponto com lápis.
+2. **Cole uma faixa de fita crepe** na região. Riscar na fita é mais fácil de apagar do que no reboco.
+3. **Marque o primeiro furo** do suporte. Segure o suporte na parede, apoie o nível **em cima** da prateleira (ou na aba do suporte) e deslize até a bolha ficar no centro.
+4. **Transfira a distância entre furos** com a trena — não “chute no olho”. Marque o segundo ponto na mesma linha do nível.
+5. **Fure em 90 graus.** Broca de vídea, diâmetro da bucha. Se a furadeira tiver impacto, ligue-o só depois de a broca “pegar” o reboco, para não patinar. Enrole fita crepe na broca na altura da bucha: isso limita a profundidade e evita estourar o fundo do tijolo baiano.
+6. **Limpe o furo** (sopro ou pincel). Bucha com pó dentro não expande direito.
+7. **Encaxe a bucha** até ficar rente. Se entrar mole, a broca estava larga demais — suba de diâmetro ou use bucha química (aí já é caso de profissional).
+8. **Parafuse o suporte** até ficar firme, sem esmagar o metal. Recoloque a prateleira, nível de novo, e só então aperte os parafusos da madeira.
 
-**O truque que não custa nada:** cole a fita, marque os dois furos, afaste dois passos e olhe. Se a linha já parecer torta na fita, o furo ainda não existiu — e isso é vitória.
+## Passo a passo (drywall)
 
-## 4. Alvenaria: o furo a 90 graus
+O drywall é uma placa de gesso parafusada em perfis de aço (montantes), em geral a cada 40 ou 60 cm. **A placa sozinha não segura livro nem vaso grande.**
 
-Broca de vídea, diâmetro da bucha. Impacto só depois que a broca pegar o reboco — senão ela dança na tinta. Uma voltinha de fita na broca, na altura da bucha, impede de atravessar o tijolo baiano e ficar sem fundo para a bucha expandir.
+1. Passe o detector (ou ímã) na horizontal até achar o montante — o sinal muda / o ímã puxa.
+2. Sempre que der, **um dos parafusos de cada suporte deve pegar o montante** (parafuso para metal, ponta broca).
+3. Nos furos que caírem só na placa: bucha para oco ou basculante metálica. Fure **sem impacto**, broca de madeira/metal, no diâmetro que a bucha pede.
+4. Não force a parafusadeira no drywall: a placa esfarela e o furo vira um cratera. Se isso acontecer, desloque 5 cm e use bucha maior de oco — não “complete com massa e fure de novo” no mesmo ponto para carga.
 
-Sopre o furo. Bucha com pó dentro não aperta. Ela entra justa, a tapinhas no cabo da chave. Se cair dentro, a broca estava larga: suba de diâmetro.
+**Aviso:** se a prateleira for para TV, aquário, vaso de cerâmica grande ou ferramenta, drywall sem estrutura extra **não é o lugar**. Reforce com madeira cruzando dois montantes por dentro (isso é serviço de gesseiro/marceneiro) ou mude a parede.
 
-Parafuse o suporte firme, sem achatar o metal. Prateleira no lugar, nível de novo, e só então os parafusos na madeira. Esse segundo nível pega o furo um milímetro mais alto — o milímetro que o olho vê do sofá.
+## Erros que deixam a prateleira torta (ou no chão)
 
-## 5. Drywall: a placa sozinha não segura livro
+- Confiar no “olhômetro” em vez do nível — o teto e o piso da casa também podem estar fora de esquadro; o nível é a referência, não a laje.
+- Usar bucha de alvenaria em drywall: ela gira no vazio e não segura nada.
+- Furar com a furadeira inclinada: o suporte entra vesgo e a prateleira “cai” para a frente.
+- Apertar um lado até o fim antes de conferir o nível no outro.
+- Prateleira de 1,20 m com só dois suportes nas pontas: o meio flecha (curva) com o peso.
+- Esquecer de medir duas vezes a distância entre furos da mão francesa — cada modelo tem o seu.
 
-Por trás tem perfis de aço, em geral a cada 40 ou 60 cm. É neles que a carga deve se apoiar. O ímã anda na horizontal até puxar.
+## FAQ
 
-Sempre que der, um parafuso de cada suporte no montante. Nos furos que caírem só na placa: bucha de oco, **sem impacto**. Impacto no gesso vira cratera. Cratera já feita: desloque uns 5 cm. Completar com massa e furar o mesmo ponto para carga não devolve resistência.
+**Posso instalar prateleira em cima de cama ou berço?**  
+Evite. Se cair, o risco não vale o espaço extra. Prefira parede livre.
 
-TV, aquário, vaso pesado, caixa de ferramenta: drywall sem reforço interno não é o lugar. Gesseiro coloca madeira entre montantes. Não se resolve com “bucha mais cara”.
+**Suporte invisível é seguro?**  
+Sim, se os pinos entrarem na alvenaria com bucha correta e a prateleira for grossa o bastante para o furo cego. Em drywall, suporte invisível só com montante — e mesmo assim para carga leve.
 
-## O que derruba prateleira mesmo com peça boa
-
-Bucha de tijolo no drywall. Furadeira inclinada, suporte vesgo. Apertar um lado até o fim antes de olhar o outro. Prateleira de 1,20 m com suporte só nas pontas — o meio faz barriga. Sobre cama ou berço: se cair, o espaço extra não valeu o risco.
-
-Suporte invisível (pino que some na madeira) vai em alvenaria com bucha certa e prateleira grossa. Em drywall, só com montante, e ainda assim para coisa leve.
-
-## Perguntas frequentes
-
-**É difícil instalar prateleira sozinho?**  
-Não, se você identificou a parede. O que decide é a bucha certa e o nível, não a força na furadeira.
+**A parede descascou ao furar.**  
+Fita crepe no ponto, broca afiada, começar devagar. O buraco pequeno depois se disfarça com massa; o suporte cobre a maior parte.
 
 **Não tenho furadeira.**  
-Alvenaria de concreto à mão é inviável. Drywall, carga muito leve, existe parafuso autobrocante — o montante ainda é quem segura.
+Em alvenaria de concreto, furar à mão é inviável. Em drywall, para carga muito leve, existe parafuso autobrocante — ainda assim o montante é o que segura. Se não tem ferramenta e a parede é de concreto, chame alguém que tenha.
 
-**A parede descascou no furo.**  
-Fita no ponto, broca afiada, comece devagar. Furo pequeno a massa disfarça; o suporte cobre o resto.
-
-## Em resumo
-
-A bolha no nível e a bucha da *sua* parede resolvem a prateleira torta e a prateleira no chão. O olho, do sofá, não perdoa o milímetro que a fita teria mostrado antes do furo. Então, da próxima vez que a mão coçar para furar “só um pouquinho”: primeiro a parede, depois o nível, depois a broca.
+Se no meio do caminho o furo escorreu, a bucha girou ou você desconfia de cano, **pare**. Uma prateleira se resolve; um cano furado ou um choque, não.

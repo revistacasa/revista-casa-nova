@@ -1,71 +1,93 @@
 ---
-title: "Como montar horta em vasos na varanda: sol, terra e o trio que funciona"
+title: "Como montar horta em vasos na varanda: sol, terra e o que plantar"
 slug: "horta-em-vasos-na-varanda"
 date: "2026-08-15"
-updated: "2026-08-21"
+updated: "2026-08-15"
 category: "Jardim"
 categorySlug: "jardim"
-tags: ["horta em vaso", "horta na varanda", "alface", "manjericão", "tomate cereja"]
-description: "Como montar horta em vasos na varanda: horas de sol, vaso com furo, terra leve e o trio alface, manjericão e tomate-cereja — cada um no vaso certo."
+tags: ["horta em vaso", "varanda", "alface", "manjericão", "tomate cereja", "horta urbana", "drenagem", "temperos"]
+description: "Horta na varanda do apartamento: quantas horas de sol, vaso com furo, terra e o trio que funciona — alface, manjericão e tomate-cereja — cada um no vaso certo."
 cover: "/images/uploads/2026/08/horta-em-vasos-na-varanda.jpg"
 ---
 
 <p><img src="/images/uploads/2026/08/horta-em-vasos-na-varanda.jpg" alt="Três vasos na varanda: alface, manjericão e tomate-cereja" /></p>
 
-você já chegou da feira com dez mudas, enfiou tudo no mesmo vaso “pra ganhar espaço” e, em três semanas, a hortelã tinha comido o manjericão, o tomate esticou sem fruto e a alface amargou no calor.
+Varanda de apartamento não é quintal. O vento seca o vaso mais rápido, o peso da terra tem limite no piso, e o sol nasce de um lado só. Ainda assim dá para colher folha e tempero toda semana se você casar **três coisas**: horas de sol, vaso com drenagem e planta que aceita vaso. Este guia começa pelo trio mais previsível — **alface**, **manjericão** e **tomate-cereja** — e não promete milho nem abóbora no vaso de 20 cm.
 
-Não foi “falta de mão pra planta”. Foi vaso errado, sol não contado e espécie demais no mesmo sábado.
+## 1. Conte as horas de sol (de verdade)
 
-Varanda de apartamento não é quintal. O vento seca o vaso mais rápido, a terra molhada pesa no piso, o sol nasce de um lado só. Ainda assim dá pra colher folha e tempero toda semana. Este guia não indica marca de substrato. A ideia é casar três coisas: horas de sol, vaso que drena e planta que aceita viver num balde.
+Durante um dia claro, anote quando o sol bate direto na grade:
 
-A foto é literal: **alface**, **manjericão** e **tomate-cereja**. Cada um no vaso dele. Não prometemos milho nem abóbora em 20 cm de terra.
+| Sol direto na varanda | O que plantar |
+| --- | --- |
+| Menos de 3 horas (muito sombra, face sul em várias cidades) | Folhosas que toleram meia-sombra: alface, salsa, cebolinha, hortelã (hortelã **sozinha** no vaso) |
+| 4 a 6 horas | Alface, manjericão, rúcula, pimenta pequena |
+| 6 horas ou mais | Tomate-cereja, pimentão pequeno, manjericão, alecrim |
 
-## 1. Conte o sol de verdade, com o relógio
+No Brasil, varanda que “pega sol de manhã” (leste) é mais mansa que a que recebe a tarde inteira (oeste), que queima folha no verão. Manta sombreada ou tela só se a planta estiver crestando; tomate-cereja quer sol, não sombrinha o dia todo.
 
-Num dia claro, anote quando o sol bate direto na grade.
+Peso: terra molhada é pesada. Varanda pequena, vasos médios. Se o síndico limita carga ou o piso é só laje sem contrapiso aparente, vários vasos grandes juntos na mesma ponta da sacada é má ideia — espalhe.
 
-Menos de três horas (muita sombra, face sul em várias cidades): folhosas de meia-sombra — alface, salsa, cebolinha. Hortelã também, mas **sozinha** no vaso; ela toma conta das raízes da vizinha. Quatro a seis horas: alface, manjericão, rúcula, pimenta pequena. Seis horas ou mais: o tomate-cereja entra na roda.
+## 2. O vaso (mais importante que a semente cara)
 
-No Brasil, sol de manhã (leste) é mais manso que a tarde inteira de oeste, que no verão cozinha a folha. Tela de sombra só se a planta estiver crestando. Tomate-cereja quer sol, não sombrinha o dia todo.
+- **Furo no fundo.** Sem furo, a raiz apodrece. Ponto.
+- Camada de drenagem: 2–3 cm de argila expandida ou caco de telha **em baixo**, depois a terra. Não encha o vaso de pedra até a metade — a planta precisa de terra, não de brita.
+- Prato embaixo para o vizinho de baixo não receber a rega. Esvazie o prato depois; raiz de molho o dia todo apodrece igual.
+- Tamanho mínimo útil:
+  - **Alface:** 20 cm de profundidade, 20–25 cm de boca. Uma cabeça (ou 3–4 baby) por vaso.
+  - **Manjericão:** 20 cm de profundidade. Ele gosta de vaso só dele.
+  - **Tomate-cereja:** 30–40 cm de profundidade, boca larga, e um tutor (estaca de bambu) desde o início. Vaso raso = planta estiolada e pouco fruto.
 
-Terra molhada é pesada. Vários vasos grandes na mesma ponta da sacada não é jardim, é carga. Espalhe. Se o síndico limita peso, vasos médios bastam pro trio.
+Não plante hortelã no mesmo vaso do manjericão: a hortelã toma conta das raízes e sufoca o vizinho.
 
-## 2. O vaso importa mais que a semente “especial”
+## 3. Terra
 
-Sem furo no fundo, a raiz apodrece. Dois ou três centímetros de argila expandida ou caco de telha **embaixo**, depois a terra. Não encha o vaso de pedra até a metade — a planta precisa de terra, não de brita.
+Mistura que funciona em varanda (leve, não vira tijolo):
 
-Prato pro vizinho de baixo não receber a sua rega. Esvazie o prato depois. Raiz de molho o dia todo apodrece igual, só que mais educada com o andar de baixo.
+- 2 partes de terra vegetal ou substrato para hortaliça
+- 1 parte de composto / húmus
+- 1 parte de material que folgue: fibra de coco ou areia grossa
 
-Alface: uns 20 cm de profundidade e 20–25 cm de boca, uma cabeça (ou três ou quatro baby) por vaso. Manjericão: 20 cm, vaso só dele. Tomate-cereja: 30–40 cm de fundo, boca larga, e uma estaca de bambu **desde o primeiro dia**. Vaso raso pra tomate é planta esticada e fruto nenhum.
+Terra “de jardim” pesada, sozinha, compacta no vaso e afoga a raiz. Não use só terra preta de saco sem olhar se é substrato ou só turfa.
 
-Plástico pode, se furar o fundo. Esquenta mais ao sol. Barro transpire e seca mais rápido — no vento da varanda, isso quer dizer regar olhando a terra, não o calendário.
+Adubo: hortaliça come. A cada 20–30 dias, composto na superfície ou adubo para horta **na dose da embalagem** — mais do que isso queima a raiz. Não misture produtos químicos de limpeza “para matar fungo” na terra.
 
-## 3. Terra que não vira tijolo
+## 4. As três plantas da foto (e só elas, com precisão)
 
-Duas partes de terra vegetal ou substrato de hortaliça, uma de composto ou húmus, uma de coisa que folgue (fibra de coco ou areia grossa). Terra “de jardim” pesada, sozinha, compacta no vaso e afoga a raiz.
+### Alface
 
-Hortaliça come: a cada 20 ou 30 dias, composto na superfície, na dose da embalagem. Mais que isso queima. Não misture produto de limpeza “pra matar fungo” na terra. A horta não é a pia.
+Folha que não pede sol de forno. Semeie rala ou compre muda. Deixe 15–20 cm entre plantas. Regue quando o dedo, uns 2 cm na terra, sair seco — de manhã. Colha as folhas de fora e deixe o miolo, ou corte a cabeça inteira perto do colo. No calor forte, alface pendoa (estica e amarga): colha antes, ou escolha variedade “americana” / crespa conforme a estação da sua região.
 
-## As três da foto
+### Manjericão
 
-**Alface** não pede sol de forno. Semente rala ou muda. Uns 15–20 cm entre plantas. O dedo, dois centímetros na terra, saiu seco? Água, de manhã. Colha as folhas de fora e deixe o miolo, ou corte a cabeça perto do colo. No calor forte ela estica e amarga: colha antes.
+Sol de verdade, terra que seque um pouco entre as regas, **não** encharcar. Belisque as pontas: isso atrasa a flor e engrossa o vaso. Quando florir muito, a folha perde perfume. Não deixe o prato com água parada (mosquito e raiz mole). No frio intenso de algumas capitais do Sul, recolha para um peitoril de janela.
 
-**Manjericão** quer sol de verdade e terra que seque um pouco entre as regas. Belisque as pontas: atrasa a flor e o vaso engrossa. Quando floresce demais, a folha perde o perfume. Prato com água parada é mosquito e raiz mole.
+### Tomate-cereja
 
-**Tomate-cereja** é o exigente da turma. Sol, vaso fundo, tutor, água regular sem alagar. Folha amarela embaixo e terra encharcada: água demais. Folha crestada ao meio-dia e terra em pó: sede e vaso pequeno. Os frutos são os pequenos, em cacho. Molhe a terra, não um chuveiro nas folhas ao meio-dia.
+O mais exigente dos três. Sol, vaso fundo, tutor, e água regular sem alagar. Folha amarela de baixo + terra encharcada = excesso de água. Folha crestada ao meio-dia + terra em pó = falta de água e de vaso. Os frutos na foto são os pequenos, em cacho; tomate grande de mesa não cabe nesse tamanho de vaso. Retire brotos do meio das axilas se a planta virar um emaranhado (pode deixar simples: um caule principal + tutor).
 
-Varanda venta, então o vaso seca mais que no quintal. Dedo na terra. Calendário cego mata de sede na sexta e afoga no sábado.
+Rega: varanda venta, então o vaso seca mais que no quintal. Dedo na terra, não calendário cego. Molhe a terra, **não** um chuveiro nas folhas ao meio-dia.
 
-Pulgão no manjericão: tem artigo só disso. Jato de água na face de baixo; erva que vai ao prato, prefira água e corte do ramo. Nunca misture inseticida caseiro com água sanitária.
+## Pragas comuns (sem receita perigosa)
 
-## Perguntas frequentes
+- Pulgão no manjericão: jato de água na folha (em baixo) e, se persistir, sabão neutro bem diluído, teste numa folha, nunca ao sol forte. **Não** misture inseticidas caseiros com água sanitária ou outros químicos.
+- Lesma: recolher à noite, não veneno improvisado com sal em excesso no prato das outras plantas.
+- Mosquito no prato: esvazie o prato.
+
+Se a infestação tomar a varanda, jogar “receita potente” de internet é o caminho de queimar a planta e irritar o pulmão. Na dúvida, tire a planta afetada.
+
+## FAQ
+
+**Posso usar vaso de plástico?**  
+Sim, desde que fure o fundo. Plástico esquenta mais ao sol; barro transpire mais e seca mais rápido.
 
 **Semente ou muda?**  
-Muda de alface e manjericão encurta o começo. Tomate-cereja: muda já com uns 15 cm evita perder o mês da sementeira.
+Muda de alface e manjericão encurta o começo. Tomate-cereja: muda já com 15 cm evita perder o mês da sementeira.
 
-**Dá pra viver disso?**  
-Não. Dá pra temperar a salada e colher folha.
+**Varanda com vento forte.**  
+Amarre o tomate no tutor. Vaso alto e estreito tomba; prefira boca larga. Um quebra-vento (treliça, outra planta mais resistente) ajuda.
 
-## Em resumo
+**Dá para viver disso?**  
+Não. Dá para temperar salada e colher folha. Referência de casa, não de sítio.
 
-Três vasos certos e o relógio no sol resolvem a maior parte da horta que morre no primeiro mês. O dedo na terra resolve o resto. Dez espécies no mesmo sábado não resolvem nenhum dos dois. Então, da próxima vez que a feira de mudas te chamar: alface, manjericão, cereja. Só isso, até eles pegarem.
+Comece pelos **três vasos da imagem**. Quando alface, manjericão e cereja estiverem estáveis, aí sim abra rúcula ou cebolinha. Horta de varanda morre de ansiedade (dez espécies no mesmo dia) mais do que de falta de adubo.
