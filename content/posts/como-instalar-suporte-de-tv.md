@@ -1,108 +1,77 @@
 ---
-title: "Como instalar suporte de TV na parede sem a TV cair"
+title: "Como instalar suporte de TV na parede sem a tela ir ao chão"
 slug: "como-instalar-suporte-de-tv"
 date: "2026-08-20"
-updated: "2026-08-20"
+updated: "2026-08-21"
 category: "Reformas"
 categorySlug: "reformas"
-tags: ["suporte de tv", "fixar tv na parede", "vesa", "drywall", "alvenaria", "painel de tv", "furação", "segurança"]
-description: "Como escolher o suporte certo (VESA e peso), a altura da tela, a bucha para alvenaria ou drywall e o que não furar — para a TV ficar firme, sem risco de queda."
+tags: ["suporte de tv", "instalar suporte de tv", "vesa", "drywall", "alvenaria"]
+description: "Como instalar suporte de TV: VESA, peso em quilos, altura no sofá, bucha de alvenaria ou drywall e o que nunca furar."
 cover: "/images/uploads/2026/08/como-instalar-suporte-de-tv.jpg"
 ---
 
 <p><img src="/images/uploads/2026/08/como-instalar-suporte-de-tv.jpg" alt="Marcação na parede com nível para instalar suporte de televisão" /></p>
 
-A TV na parede libera o rack e deixa o fio mais curto. Também é o tipo de instalação que, feita no material errado, **cai com a tela**. O suporte não é “genérico”: ele tem de casar com o furo de trás da TV (padrão VESA), com o **peso real** do aparelho e com o tipo de parede. Este guia é para instalação em alvenaria. Drywall entra no texto com limite claro — e com o aviso de quando **não** faça sozinho.
+você já comprou o suporte “pra 55 polegadas”, chegou em casa e os quatro furos de trás da TV não batiam. Ou batiam, mas o peso real era 22 kg e o suporte aguentava 15. Ou a TV ficou linda na parede — e no drywall, só na placa de gesso, com bucha de tijolo.
 
-## 1. Três números que você precisa anotar antes de comprar o suporte
+Não foi a TV pesada demais. Foi o número errado: VESA, quilos ou tipo de parede.
 
-Vire a TV (com ajuda; tela grande não se vira sozinho) e leia o manual ou a etiqueta de trás:
+Instalar suporte de TV libera o rack e encurta o fio. Também é o serviço em que o material errado custa uma tela. Este guia não indica marca. A ideia é você anotar três números ainda no chão, marcar a altura sentado no sofá e saber quando o drywall pede reforço — não “bucha mais cara”.
 
-1. **Peso da TV** em kg (não use só a polegada: duas TVs de 55" podem ter 12 kg ou 22 kg).
-2. **VESA**: é a distância em milímetros entre os quatro furos de trás, na horizontal × vertical. Exemplos comuns: 200×200, 300×300, 400×400. O suporte tem de listar **exatamente** esse código, ou uma faixa que o inclua.
-3. **Tipo de parede** onde ela vai (alvenaria / concreto / drywall). O suporte quase sempre vem com bucha de alvenaria. Essa bucha **não serve** para drywall.
+## 1. Três números, ainda no chão
 
-Depois escolha o movimento:
+Vire a TV com ajuda. Tela grande não se vira no colo.
 
-| Tipo de suporte | Quando faz sentido | Cuidado |
-| --- | --- | --- |
-| Fixo | TV de frente para o sofá, parede boa | O mais seguro: menos alavanca |
-| Inclinável | TV um pouco alta, para apontar para baixo | Pouca alavanca extra |
-| Articulado (braço) | Canto, ou para girar entre dois ambientes | **Aumenta muito** a força no parafuso. Só em alvenaria/concreto bem fixado, ou drywall **nos montantes**, com peso menor que o máximo do suporte |
+**Peso.** Duas TVs de 55" podem ter 12 kg ou 22 kg. O suporte “para 55"” que aguenta 15 kg não é suporte pra sua de 22. Leve pelo menos 1,5 vez o peso da TV de folga.
 
-Regra prática: o suporte deve aguentar **pelo menos 1,5× o peso da TV**. Se a TV tem 16 kg, não use suporte de “até 15 kg”.
+**VESA.** Distância em milímetros entre os furos, horizontal × vertical. 200×200, 300×300, 400×400 são os comuns. O suporte tem que listar exatamente esse código, ou uma faixa que o inclua. Sem isso, o parafuso de trás não encontra furo.
 
-## 2. Altura: a regra que evita dor no pescoço
+**Parede.** O kit quase sempre vem com bucha de alvenaria. Essa bucha no drywall é enfeite.
 
-Sente no sofá. A linha dos **olhos** deve cair no **terço superior** da tela, ou no centro, se a família for alta. Em números redondos, para um sofá comum:
+Fixo: menos alavanca, mais seguro. Inclinável: se a TV ficou um pouco alta, só aponta o queixo pra baixo. Articulado (braço): tentador no canto — e o que mais puxa o parafuso pra fora. Braço longo só em alvenaria bem feita, ou no drywall **no montante**, com folga grande de peso.
 
-- centro da tela: cerca de 1,00 m a 1,15 m do chão;
-- TV de 50–55": a base da tela fica mais ou menos a 70–85 cm do chão.
+## 2. A altura que não dói o pescoço
 
-Marque com fita crepe o retângulo da TV na parede e sente de novo. É mais barato errar na fita do que no furo.
+Sente no sofá. A linha dos olhos deve cair no terço de cima da tela, ou no centro se a família for alta. Em número redondo, o centro da tela fica por volta de 1,00 m a 1,15 m do chão — o seu sofá é que manda.
 
-Deixe folga para o cabo HDMI e para a ventilação de trás (a TV não pode colar 100% no reboco se o manual pedir vão).
+**O truque que não custa nada:** fita crepe desenhando o retângulo da TV. Sente de novo. Errar na fita é de graça. Errar no furo, não. Deixe um respiro atrás se o manual pedir vão: muita TV assa colada no reboco.
 
-## 3. O que você **não** fura
+## 3. O que a broca não deve encontrar
 
-**Aviso de risco — leia antes de ligar a furadeira.**
+Eixo de tomada, interruptor, registro. Faixa ao lado de um ponto de água no outro cômodo — banheiro atrás da sala é clássico. Pilar, viga, concreto estrutural: engenheiro, não DIY.
 
-- Eixo vertical de tomadas, interruptores e registros.
-- Faixa de 30–40 cm ao lado de um ponto de água no outro cômodo (banheiro atrás da sala é clássico).
-- Laje, pilar aparente ou parede que “soa diferente” no meio (pode ser estrutura). **Não fure pilar, viga nem concreto estrutural** sem engenheiro.
-- Drywall só na placa de gesso, com bucha de alvenaria, para TV acima de ~15–20 kg: é o cenário da TV no chão.
+Drywall só na placa, bucha de tijolo, TV acima de uns 15–20 kg: roteiro da tela no chão. Casa antiga, parede que “formiga” perto da tomada: a visita de um instalador custa menos que a tela. Óculos. Pó de alvenaria no olho e broca quebrada não avisam.
 
-Se a casa é antiga, se a parede “choca” ao encostar a chave de teste perto, ou se você não sabe o que tem dentro: **contrate um instalador**. O preço da visita é menor que o da tela.
+## 4. Alvenaria, passo a passo
 
-Use óculos. Pó de alvenaria no olho e broca quebrada acontecem.
+Placa VESA na TV ainda deitada, no sofá, pano embaixo. Aperte em cruz, firme, sem estrangular o plástico da carcaça.
 
-## Materiais
+Na parede, o centro do sofá na horizontal. Sobe até a altura que você testou sentado. Furos da **placa de parede** com o nível nela — não na linha do teto.
 
-- Suporte compatível com VESA e peso
-- Furadeira com impacto (alvenaria) ou só rotação (drywall)
-- Broca de vídea do diâmetro da bucha (muitas vezes 10 mm)
-- Nível de bolha
-- Trena, lápis, fita crepe
-- Chave adequada aos parafusos da TV (geralmente Allen, vem no kit)
-- Detector de metal / cano, se tiver
-- Segunda pessoa para erguer a TV
+Furo a 90 graus, profundidade da bucha (fita na broca). Pó pra fora. Bucha de nylon boa. Concreto muito duro às vezes ri da bucha curtinha do kit: 10 mm com parafuso que entre uns 4 ou 5 cm na parede de verdade.
 
-## Passo a passo em alvenaria
+Placa de parede, nível outra vez, aperto em cruz. A TV sobe **em dois**. O clique da trava tem que aparecer. Quase todo suporte tem um parafusinho de segurança pra criança não levantar a tela. Use.
 
-1. Monte a placa VESA **na TV** ainda na horizontal, no chão ou no sofá, com um pano. Aperte em cruz, firme, sem estrangular o plástico da carcaça.
-2. Na parede, marque o centro horizontal do sofá. Suba até a altura decidida. Cole fita e desenhe os furos da **placa de parede** do suporte, com o nível na peça — não na linha do teto.
-3. Fure os pontos, 90 graus, profundidade da bucha (marque a broca com fita). Limpe o pó.
-4. Buchas de nylon de qualidade, bem encostadas. Para concreto muito duro, às vezes a bucha do kit é curta: use bucha 10 mm com parafuso que entre no mínimo 4–5 cm na parede.
-5. Parafuse a placa de parede, confira o nível **de novo**, aperte em cruz.
-6. Engate a TV no suporte **em dois**. O clique/trava tem que aparecer. Trave o parafuso de segurança do suporte (quase todo modelo tem um; é o que impede a criança de levantar a tela).
-7. Só então ligue os cabos. Não deixe o HDMI esticado puxando o braço articulado.
+Cabo por último. HDMI esticado puxando braço articulado é alavanca. Uma canaleta evita que o cabo vire brinquedo.
 
-## Drywall: só com regra dura
+## 5. Drywall: conversa honesta
 
-Montantes de aço (a cada 40 ou 60 cm) são o que segura. Detector de metal para achá-los. O ideal: **os quatro furos** do suporte no montante, ou pelo menos os dois de cima + buchas basculantes metálicas nos de baixo, TV relativamente leve, suporte **fixo** (não articulado).
+Montantes de aço, de 40 em 40 ou 60 em 60 cm. Detector de metal. O ideal: os quatro furos no perfil. O aceitável, TV mais leve e suporte **fixo**: dois em cima no montante, dois embaixo com bucha basculante metálica.
 
-Limites conservadores (TV + suporte):
+Só na chapa, quatro buchas de oco: trate como no máximo 15–20 kg — e ainda assim é o elo fraco. Articulado no drywall sem montante: não. TV grande nessa parede pede reforço interno feito por quem monta gesso.
 
-- só na chapa, 4 buchas de oco, suporte fixo: trate como **no máximo 15–20 kg** — e mesmo assim é o elo fraco;
-- dois parafusos em montante + dois em bucha de oco: até ~30–35 kg, suporte fixo;
-- articulado no drywall: só se a âncora principal for montante, e ainda assim com folga grande de peso. Na dúvida, **não**.
+## Depois que ela está lá
 
-Se a TV for grande e a parede for drywall, a solução correta costuma ser um reforço interno (madeira ou perfil extra entre montantes) feito por quem monta gesso. Isso não é “furo com bucha mais cara”.
+Puxe a base (não o topo) com jeito. Folga demais é parafuso. Se articula, abre e fecha e olha o cabo. TV torta depois de uns dias, no articulado: quase sempre é o parafuso de fricção do **braço**, não a parede. Furo errado: desloque uns 5 cm. Não reaproveite furo alargado pro peso da tela.
 
-## Depois de instalar
+## Perguntas frequentes
 
-Puxe a base da TV com cuidado (não o topo) para sentir folga. Se o suporte articula, abra e feche devagar: o braço não pode “morder” o cabo. Organize os fios com canaleta — fio bambo vira alavanca e tira a criança do chão.
+**É difícil instalar suporte de TV sozinho?**  
+Alvenaria reta, longe de água e luz, TV de peso médio: muita gente faz. Drywall, concreto estrutural, tela pesada, braço longo: deixa pra quem faz isso toda semana.
 
-## FAQ
+**As buchas do kit servem em qualquer parede?**  
+Não. Kit padrão é alvenaria. Drywall pede bucha de oco ou montante.
 
-**A TV fica torta depois de uns dias.**  
-O suporte articulado cede um pouco. Aperte os parafusos de fricção do braço (não os da parede). Confira se a placa de parede continua no nível.
+## Em resumo
 
-**Posso usar as buchas que vieram no kit em qualquer parede?**  
-Não. Kit padrão = alvenaria. Concreto muito duro às vezes pede broca nova. Drywall pede bucha de oco / montante.
-
-**E se eu errar o furo?**  
-Desloque no mínimo 5 cm. Furo velho se preenche com massa; não reaproveite um furo alargado para o peso da TV.
-
-**Precisa de mão de obra?**  
-Alvenaria reta, longe de hidráulica e elétrica, TV até peso médio: muita gente faz. Drywall, concreto estrutural, TV pesada ou articulado longo: profissional.
+VESA, quilos e tipo de parede resolvem a maior parte da TV no chão. A fita no sofá resolve o pescoço. O suporte “pra 55 polegadas”, sem esses três números, não resolve nenhum dos dois. Então, da próxima vez que a parede parecer o lugar óbvio: anota na caixa, senta no sofá, depois fura.

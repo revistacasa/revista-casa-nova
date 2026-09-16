@@ -1,82 +1,72 @@
 ---
-title: "Furadeira ou parafusadeira: qual usar (e quando as duas)"
+title: "Furadeira ou parafusadeira: qual usar e quando você precisa das duas"
 slug: "furadeira-ou-parafusadeira"
 date: "2026-08-19"
-updated: "2026-08-19"
+updated: "2026-08-21"
 category: "Produtos e Reviews"
 categorySlug: "produtos-reviews"
-tags: ["furadeira", "parafusadeira", "ferramentas", "diy", "impacto", "mandril", "como escolher ferramenta"]
-description: "Furadeira fura; parafusadeira aperta parafuso com torque. Veja a diferença, a tabela de uso, o que a furadeira de impacto faz na alvenaria e quando você realmente precisa das duas."
+tags: ["furadeira", "parafusadeira", "furadeira ou parafusadeira", "impacto", "ferramentas"]
+description: "Furadeira ou parafusadeira? Uma fura parede; a outra aperta parafuso sem descascar a cabeça. Veja o impacto na alvenaria e quando vale ter as duas."
 cover: "/images/uploads/2026/08/furadeira-ou-parafusadeira.jpg"
 ---
 
-<p><img src="/images/uploads/2026/08/furadeira-ou-parafusadeira.jpg" alt="Furadeira com broca de vídea ao lado de parafusadeira com bit de fenda, em bancada" /></p>
+<p><img src="/images/uploads/2026/08/furadeira-ou-parafusadeira.jpg" alt="Furadeira com broca de vídea ao lado de parafusadeira com bit, em bancada" /></p>
 
-A dúvida aparece na hora de instalar prateleira, montar móvel ou pendurar suporte: “não é a mesma máquina com outro bit?”. Não. Uma é feita para **abrir furo**; a outra, para **apertar parafuso sem descascar a cabeça**. Comprar a errada é o atalho para furo oval, parafuso estourado e drywall esfarelado. Este comparativo não cita modelo de loja: fala da função.
+você já chegou na prateleira de ferramentas e ficou parado entre duas máquinas que “giram”, levou a mais barata e, no primeiro tijolo, a broca só esquentou. Ou o contrário — usou a furadeira de impacto no parafuso da dobradiça e a fenda da cabeça virou um X destruído. Porta bamba. MDF rasgado. Sem volta.
 
-## O que cada uma faz de verdade
+Não foi a parede teimosa. Foi a máquina errada.
 
-**Furadeira** — mandril que segura broca. A função principal é rotação para furar madeira, metal e, se tiver **impacto/martelete**, alvenaria e concreto. O impacto é um vai-e-vem rápido na ponta; sem ele, furar tijolo vira suplício e a broca esquenta.
+Furadeira e parafusadeira não fazem o mesmo trabalho. Uma existe pra **abrir furo**. A outra, pra **apertar parafuso sem descascar a cabeça**. Este guia não indica marca. A ideia é você reconhecer cada uma na prateleira e saber o que ligar — e o que nunca ligar — na *sua* parede.
 
-**Parafusadeira** (furadeira-parafusadeira / parafusadeira com embreagem) — também gira, mas o coração é o **anel de torque** (números 1–20 + furo). Ao chegar no aperto certo, a embreagem patina e para de forçar. Por isso ela não arranca a fenda do parafuso de móvel. Quase sempre vem com bit Phillips. Muitas furam madeira fina; **não substituem** furadeira de impacto na parede de cimento.
+## 1. O que cada uma faz
 
-**Parafusadeira de impacto** (impacto de aperto, não de furo) — bate em rotação para parafuso longo em madeira. É outra família. Não use para furar alvenaria.
+A **furadeira** segura broca no mandril. O trabalho dela é girar e, se tiver aquele seletor de martelinho, **bater** enquanto gira. Esse impacto é o que fura tijolo e concreto. Sem ele, a broca de vídea só polisce o cimento. Você cansa antes da parede.
 
-## Tabela rápida
+A **parafusadeira** também gira, mas o coração é o anel numerado: a embreagem. Chegou no aperto, ela patina e para de forçar. Por isso o parafuso do móvel não perde a fenda. Fura madeira fina e drywall com jeito. Não fura parede de cimento como a outra.
 
-| Tarefa | Ferramenta | Por quê |
-| --- | --- | --- |
-| Furar alvenaria / concreto para bucha | Furadeira **com impacto** + broca de vídea | Sem impacto, a broca só polisce o cimento |
-| Furar drywall ou madeira | Parafusadeira no modo furo **ou** furadeira **sem** impacto | Impacto racha gesso e lasca madeira |
-| Montar móvel, dobradiça, prateleira (parafuso) | Parafusadeira com torque baixo/médio | Embreagem evita estrangular o parafuso |
-| Parafuso pequeno em MDF | Parafusadeira, torque 2–6, ou chave manual no final | Furadeira em velocidade alta descasca a cabeça |
-| Furo de 10 mm em concreto para suporte de TV | Furadeira de impacto, broca 10 mm vídea | Trabalho pesado; máquina “fraca” queima o motor |
-| Só um quadro leve, um furo | Se a parede é alvenaria, ainda assim precisa de impacto | A parafusadeira sozinha não resolve |
+Tem ainda a parafusadeira de impacto — trepida no *aperto*, pra parafuso longo em madeira. É outra família. Não adianta apontar pro tijolo.
 
-## Como reconhecer na prateleira (sem olhar a marca)
+## 2. Quando usar cada uma
 
-- **Furadeira de impacto:** chaveiro “furadeira / martelo / furar com impacto”. Mandril grosso, corpo mais longo, às vezes cabo em D.
-- **Parafusadeira:** anel numerado atrás do mandril (embreagem), corpo curto, bit de ponta já encaixado, bateria no cabo.
-- **Mandril:** se só entra broca de 1,5–13 mm, é furadeira. Se o encaixe é sextavado de 6,35 mm (bit), é parafusadeira — alguns modelos aceitam adaptador, mas o motor não ganha impacto de alvenaria com isso.
+Furar alvenaria pra bucha: furadeira **com impacto** e broca de vídea. Furar drywall ou madeira: impacto **desligado**, ou a parafusadeira no modo furo. Montar móvel, dobradiça, prateleira: parafusadeira, torque baixo ou médio.
 
-## A regra de ouro da parede
+Parafuso miúdo em MDF no torque máximo da furadeira é o clássico da porta bamba pro resto da vida. Furo de 10 mm em concreto pra suporte de TV: furadeira de impacto, sem conversa. Um quadro leve em parede de tijolo? Ainda precisa de impacto. A parafusadeira sozinha não resolve.
 
-Alvenaria e concreto: **impacto ligado**, broca de vídea, óculos.
+## 3. Como reconhecer na prateleira, sem olhar marca
 
-Drywall, azulejo (começar), madeira, metal fino: **impacto desligado**. No azulejo, fita crepe no ponto e rotação baixa até atravessar o vidrado; depois pode tratar como alvenaria.
+Furadeira de impacto: seletor furar / martelo. Mandril grosso, corpo mais longo. Parafusadeira: anel com números, corpo curto, bit já encaixado, bateria no cabo. Bico que só aceita broca redonda de 1,5 a 13 mm: furadeira. Encaixe sextavado de bit: parafusadeira. Adaptador existe. Impacto de alvenaria, o adaptador não inventa.
 
-**Aviso:** broca de vídea quebra. Óculos não são frescura. Não fure no eixo de tomada, registro ou encanamento. Se a broca emperrar, desligue e trave o gatilho — não force com o corpo. Concreto estrutural (pilar, viga) não é lugar de DIY.
+## 4. A parede manda no botão
+
+Alvenaria e concreto: impacto ligado, broca de vídea, óculos. Broca de vídea quebra. Óculos não são detalhe.
+
+Drywall, madeira, metal fino, e o *começo* do furo no azulejo: impacto desligado. No azulejo, fita crepe no X e rotação baixa até passar o vidrado; depois a parede atrás é alvenaria de novo.
+
+Não fure no eixo de tomada, registro ou encanamento. Broca emperrada: desliga, não briga com o corpo. Pilar e viga não são “mais um furo”. São estrutura.
 
 ## Você precisa das duas?
 
-**Só parafusadeira** se a sua vida é montar móvel, prateleira em drywall leve e parafuso em madeira. No primeiro furo de tijolo você vai sentir falta da outra.
+Só parafusadeira: se a vida é móvel, prateleira leve em drywall e parafuso em madeira. No primeiro tijolo você vai sentir falta da outra.
 
-**Só furadeira** (com impacto) se você fura parede o tempo todo e aperta pouco parafuso. Dá para apertar parafuso nela, mas é fácil passar do ponto. Use a mão no último quarto de volta.
+Só furadeira com impacto: se você fura parede o tempo todo e aperta pouco parafuso. Dá pra apertar nela, mas é fácil passar do ponto. O último quarto de volta, de mão, salva a fenda.
 
-**As duas** (o kit mais honesto para casa) quando você instala prateleira, suporte, varal, persiana **e** monta móvel. Não precisa ser profissional: uma furadeira de impacto 500–750 W (fio) já fura alvenaria de apartamento; uma parafusadeira 12 V resolve o resto.
+**O pulo do gato:** vale ter as duas quando você fura parede *e* monta móvel no mesmo mês. Furadeira de impacto 500 a 750 W, de fio, já dá conta da alvenaria de apartamento. Parafusadeira 12 V resolve o resto. Dezoito volts têm mais fôlego. Fio não acaba a bateria no meio do concreto.
 
-Bateria 12 V: leve, para parafuso. 18 V: mais fôlego. Fio: mais força contínua para furar concreto — e você não para no meio do furo porque a bateria acabou.
+## O que dá errado
 
-## Erros comuns
+Impacto no drywall: o furo vira um buraco de dois centímetros. Torque máximo na dobradiça: o MDF rasga. Broca de madeira na alvenaria: a broca morre. Cabelo ou cordão no mandril. Furar sem marcar profundidade: atravessa o tijolo baiano, a bucha não tem fundo, a prateleira já nasceu frouxa.
 
-- Usar impacto no drywall: o furo vira um buraco de 2 cm e a bucha não pega.
-- Apertar parafuso de dobradiça no torque máximo: o MDF “rasga” o furo e a porta fica bamba para sempre.
-- Broca de madeira na alvenaria: queima a broca, não fura o tijolo.
-- Não prender o cabelo / o cordão da blusa no mandril.
-- Furar sem marcar profundidade: atravessa o tijolo baiano e a bucha não tem fundo para expandir.
+## Perguntas frequentes
 
-## FAQ
-
-**Parafusadeira com “função furar” substitui a furadeira de impacto?**  
-Na madeira e no gesso, sim. Na parede de cimento, não.
-
-**Posso furar concreto com parafusadeira?**  
-Não de forma útil. Você gasta a bateria e a ponta.
-
-**Qual broca para bucha 8 mm?**  
-Broca 8 mm de vídea. A bucha deve entrar justa, batendo de leve com o cabo da chave — não “cair” dentro.
+**Parafusadeira com “função furar” substitui a de impacto?**  
+Na madeira e no gesso, sim. No tijolo, não.
 
 **Preciso de martelete?**  
-Martelete (SDS) é para concreto pesado, demolição, muitos furos. Para 4 furos de prateleira no apartamento, furadeira de impacto comum basta. Martelete em drywall é destruição.
+Martelete SDS é pra concreto pesado e muitos furos. Quatro furos de prateleira no apartamento não pedem. Martelete em drywall é destruição.
 
-Se a tarefa envolve quadro de luz, laje, pilar ou você não identifica a parede, a ferramenta certa é a **visita do profissional**, não o modo impacto.
+**Qual broca pra bucha 8 mm?**  
+Broca 8 mm de vídea. A bucha entra justa, batendo de leve — não “cai” dentro.
+
+## Em resumo
+
+O seletor de impacto e a embreagem resolvem a maior parte da confusão na prateleira. A parede certa no botão certo resolve o resto. Levar “a que gira” no impulso não resolve nenhum dos dois. Então, da próxima vez que o tijolo só esquentar a broca: não é a parede. É a máquina.
