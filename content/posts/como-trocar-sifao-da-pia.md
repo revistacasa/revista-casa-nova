@@ -1,8 +1,8 @@
 ---
 title: "Como trocar o sifão da pia: passo a passo completo"
 slug: "como-trocar-sifao-da-pia"
-date: "2026-09-12"
-updated: "2026-08-24"
+date: "2026-08-26"
+updated: "2026-08-26"
 category: "DIY — Faça você mesmo"
 categorySlug: "diy-faca-voce-mesmo"
 tags: ["sifão", "trocar sifão", "pia", "cheiro de esgoto", "vazamento"]

@@ -1,8 +1,8 @@
 ---
 title: "Como trocar o registro do chuveiro: reparo, acabamento e quando é obra"
 slug: "como-trocar-registro-do-chuveiro"
-date: "2026-09-23"
-updated: "2026-08-25"
+date: "2026-08-26"
+updated: "2026-08-26"
 category: "DIY — Faça você mesmo"
 categorySlug: "diy-faca-voce-mesmo"
 tags: ["registro do chuveiro", "trocar registro", "chuveiro pingando", "reparo de registro", "banheiro"]

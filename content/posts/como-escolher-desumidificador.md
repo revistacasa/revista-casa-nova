@@ -1,7 +1,7 @@
 ---
 title: "Desumidificador para quarto: litros por dia, ruído e o que o aparelho não seca"
 slug: "como-escolher-desumidificador"
-date: "2026-09-17"
+date: "2026-08-26"
 updated: "2026-08-28"
 category: "Produtos e Reviews"
 categorySlug: "produtos-reviews"

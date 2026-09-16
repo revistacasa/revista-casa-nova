@@ -1,8 +1,8 @@
 ---
 title: "Como escolher cortina: medida certa, blackout e altura do varão"
 slug: "como-escolher-cortina"
-date: "2026-09-03"
-updated: "2026-08-24"
+date: "2026-08-26"
+updated: "2026-08-26"
 category: "Compras"
 categorySlug: "compras"
 tags: ["cortina", "como escolher cortina", "blackout", "varão", "medida de cortina"]

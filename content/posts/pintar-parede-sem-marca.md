@@ -1,7 +1,7 @@
 ---
 title: "Como pintar parede sem deixar marca de emenda nem “bigode”"
 slug: "pintar-parede-sem-marca"
-date: "2026-09-05"
+date: "2026-08-26"
 updated: "2026-08-28"
 category: "DIY — Faça você mesmo"
 categorySlug: "diy-faca-voce-mesmo"

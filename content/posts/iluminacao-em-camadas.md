@@ -1,8 +1,8 @@
 ---
 title: "Iluminação em camadas: teto, abajur e foco — sem deixar a sala chata"
 slug: "iluminacao-em-camadas"
-date: "2026-09-02"
-updated: "2026-08-25"
+date: "2026-08-26"
+updated: "2026-08-26"
 category: "Decoração"
 categorySlug: "decoracao"
 tags: ["iluminação", "iluminação em camadas", "abajur", "luz de tarefa", "plafon"]

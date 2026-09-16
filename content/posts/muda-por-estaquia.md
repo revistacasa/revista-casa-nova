@@ -1,8 +1,8 @@
 ---
 title: "Como fazer muda por estaquia: o corte abaixo do nó, água ou terra"
 slug: "muda-por-estaquia"
-date: "2026-09-16"
-updated: "2026-09-16"
+date: "2026-08-26"
+updated: "2026-08-26"
 category: "Jardim"
 categorySlug: "jardim"
 tags: ["estaquia", "muda", "propagação", "jiboia", "manjericão", "vaso"]

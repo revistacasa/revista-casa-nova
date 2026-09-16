@@ -1,8 +1,8 @@
 ---
 title: "Como calafetar janela e porta: guia completo contra vento, chuva e fresta"
 slug: "calafetar-janela-e-porta"
-date: "2026-09-20"
-updated: "2026-08-24"
+date: "2026-08-26"
+updated: "2026-08-26"
 category: "DIY — Faça você mesmo"
 categorySlug: "diy-faca-voce-mesmo"
 tags: ["calafetar", "janela", "porta", "fresta", "corrente de ar", "silicone", "veda porta"]

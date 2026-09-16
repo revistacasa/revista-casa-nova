@@ -1,8 +1,8 @@
 ---
 title: "Como regar planta de vaso sem matar: o dedo na terra, não o calendário"
 slug: "como-regar-planta-de-vaso"
-date: "2026-09-07"
-updated: "2026-08-21"
+date: "2026-08-26"
+updated: "2026-08-26"
 category: "Jardim"
 categorySlug: "jardim"
 tags: ["regar planta", "vaso", "excesso de água", "drenagem"]

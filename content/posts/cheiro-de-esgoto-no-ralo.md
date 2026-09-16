@@ -1,8 +1,8 @@
 ---
 title: "Cheiro de esgoto no ralo: sifão seco, gordura e o que não despejar"
 slug: "cheiro-de-esgoto-no-ralo"
-date: "2026-09-08"
-updated: "2026-08-21"
+date: "2026-08-26"
+updated: "2026-08-26"
 category: "Ambientes"
 categorySlug: "ambientes"
 tags: ["cheiro de esgoto", "ralo", "sifão", "box"]

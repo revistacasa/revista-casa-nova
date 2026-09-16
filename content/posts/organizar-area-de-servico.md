@@ -1,8 +1,8 @@
 ---
 title: "Como organizar a área de serviço sem virar depósito molhado"
 slug: "organizar-area-de-servico"
-date: "2026-09-01"
-updated: "2026-08-21"
+date: "2026-08-26"
+updated: "2026-08-26"
 category: "Ambientes"
 categorySlug: "ambientes"
 tags: ["área de serviço", "lavanderia", "varal", "produtos de limpeza"]

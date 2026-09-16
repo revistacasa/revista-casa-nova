@@ -1,8 +1,8 @@
 ---
 title: "Como escolher a cor da parede: luz, subtom e teste certo"
 slug: "como-escolher-cor-da-parede"
-date: "2026-09-19"
-updated: "2026-08-24"
+date: "2026-08-26"
+updated: "2026-08-26"
 category: "Decoração"
 categorySlug: "decoracao"
 tags: ["cor da parede", "tinta", "como escolher cor", "subtom", "pintura"]

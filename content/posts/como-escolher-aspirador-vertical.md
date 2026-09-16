@@ -1,7 +1,7 @@
 ---
 title: "Aspirador vertical para pelos de animal: sucção, escova e o que o tanque não perdoa"
 slug: "como-escolher-aspirador-vertical"
-date: "2026-09-24"
+date: "2026-08-28"
 updated: "2026-08-28"
 category: "Compras"
 categorySlug: "compras"

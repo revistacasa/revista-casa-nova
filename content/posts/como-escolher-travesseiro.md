@@ -1,8 +1,8 @@
 ---
 title: "Como escolher travesseiro: altura, posição de dormir e material ideal"
 slug: "como-escolher-travesseiro"
-date: "2026-09-21"
-updated: "2026-08-24"
+date: "2026-08-26"
+updated: "2026-08-26"
 category: "Compras"
 categorySlug: "compras"
 tags: ["travesseiro", "como escolher travesseiro", "altura do travesseiro", "travesseiro para dormir de lado", "cervical", "sono"]

@@ -1,8 +1,8 @@
 ---
 title: "Como envelopar móvel com adesivo: passo a passo sem bolha"
 slug: "envelopar-movel-adesivo"
-date: "2026-09-06"
-updated: "2026-08-24"
+date: "2026-08-26"
+updated: "2026-08-26"
 category: "DIY — Faça você mesmo"
 categorySlug: "diy-faca-voce-mesmo"
 tags: ["envelopar móvel", "adesivo", "contact", "upcycling", "sem bolha"]

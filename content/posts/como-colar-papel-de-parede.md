@@ -1,8 +1,8 @@
 ---
 title: "Como colar papel de parede sem bolha: o primeiro rolo manda em tudo"
 slug: "como-colar-papel-de-parede"
-date: "2026-10-08"
-updated: "2026-09-14"
+date: "2026-09-16"
+updated: "2026-09-16"
 category: "Decoração"
 categorySlug: "decoracao"
 tags: ["papel de parede", "decoração", "parede", "DIY", "reforma"]

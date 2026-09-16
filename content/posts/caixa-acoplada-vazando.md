@@ -1,8 +1,8 @@
 ---
 title: "Caixa acoplada vazando: como saber se é boia ou vedante"
 slug: "caixa-acoplada-vazando"
-date: "2026-09-13"
-updated: "2026-08-21"
+date: "2026-08-26"
+updated: "2026-08-26"
 category: "Reformas"
 categorySlug: "reformas"
 tags: ["caixa acoplada", "caixa acoplada vazando", "boia", "vedante", "descarga", "vazamento"]

@@ -1,8 +1,8 @@
 ---
 title: "Como organizar a despensa: o que vence primeiro, o que o inseto acha e o que cabe"
 slug: "organizar-despensa"
-date: "2026-09-18"
-updated: "2026-09-18"
+date: "2026-08-26"
+updated: "2026-08-26"
 category: "Ambientes"
 categorySlug: "ambientes"
 tags: ["despensa", "organizar despensa", "armário da cozinha", "validade", "estoque"]

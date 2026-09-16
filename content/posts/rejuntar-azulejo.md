@@ -1,8 +1,8 @@
 ---
 title: "Como rejuntar azulejo do box: tirar o velho, a pasta certa e as 48 horas"
 slug: "rejuntar-azulejo"
-date: "2026-09-14"
-updated: "2026-09-14"
+date: "2026-08-26"
+updated: "2026-08-26"
 category: "Reformas"
 categorySlug: "reformas"
 tags: ["rejuntar", "rejunte", "azulejo", "box", "banheiro", "mofo no rejunte"]

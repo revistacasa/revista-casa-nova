@@ -1,8 +1,8 @@
 ---
 title: "Como organizar gavetas para não bagunçarem de novo: zonas, divisores e o teste de duas semanas"
 slug: "como-organizar-gavetas"
-date: "2026-10-15"
-updated: "2026-09-14"
+date: "2026-09-16"
+updated: "2026-09-16"
 category: "Ambientes"
 categorySlug: "ambientes"
 tags: ["organização", "gavetas", "guarda-roupa", "cozinha", "rotina"]

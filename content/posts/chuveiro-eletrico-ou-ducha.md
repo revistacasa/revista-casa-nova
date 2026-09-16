@@ -1,8 +1,8 @@
 ---
 title: "Chuveiro elétrico ou ducha a gás: diferenças, risco e quando cada um faz sentido"
 slug: "chuveiro-eletrico-ou-ducha"
-date: "2026-09-11"
-updated: "2026-08-21"
+date: "2026-08-26"
+updated: "2026-08-26"
 category: "Produtos e Reviews"
 categorySlug: "produtos-reviews"
 tags: ["chuveiro elétrico", "ducha a gás", "chuveiro", "aquecimento"]

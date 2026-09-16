@@ -1,8 +1,8 @@
 ---
 title: "Como cuidar da tábua de corte: madeira, plástico, óleo e o que a máquina destrói"
 slug: "tabua-de-corte-madeira"
-date: "2026-09-15"
-updated: "2026-09-15"
+date: "2026-08-26"
+updated: "2026-08-26"
 category: "Cozinha"
 categorySlug: "cozinha"
 tags: ["tábua de corte", "tábua de madeira", "higiene na cozinha", "óleo de tábua"]

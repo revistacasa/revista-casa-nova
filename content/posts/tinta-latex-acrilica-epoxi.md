@@ -1,8 +1,8 @@
 ---
 title: "Tinta látex, acrílica ou epóxi: quando usar cada uma"
 slug: "tinta-latex-acrilica-epoxi"
-date: "2026-09-04"
-updated: "2026-08-21"
+date: "2026-08-26"
+updated: "2026-08-26"
 category: "Produtos e Reviews"
 categorySlug: "produtos-reviews"
 tags: ["tinta", "látex", "acrílica", "epóxi", "pintura"]

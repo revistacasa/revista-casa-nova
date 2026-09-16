@@ -1,8 +1,8 @@
 ---
 title: "Como escolher chuveiro elétrico: potência, 127 ou 220 e o fio que aguenta"
 slug: "como-escolher-chuveiro"
-date: "2026-09-10"
-updated: "2026-08-24"
+date: "2026-08-26"
+updated: "2026-08-26"
 category: "Compras"
 categorySlug: "compras"
 tags: ["chuveiro elétrico", "como escolher chuveiro", "potência", "220V", "disjuntor", "fio terra"]

@@ -1,8 +1,8 @@
 ---
 title: "Como escolher ar-condicionado: BTU, split e o que o condomínio não deixa"
 slug: "como-escolher-ar-condicionado"
-date: "2026-09-22"
-updated: "2026-08-25"
+date: "2026-08-26"
+updated: "2026-08-26"
 category: "Compras"
 categorySlug: "compras"
 tags: ["ar-condicionado", "como escolher ar-condicionado", "BTU", "split", "inverter"]

@@ -1,8 +1,8 @@
 ---
 title: "Como escolher persiana: o que cada modelo faz com a luz (e a medida que decide tudo)"
 slug: "como-escolher-persiana"
-date: "2026-10-01"
-updated: "2026-09-14"
+date: "2026-09-16"
+updated: "2026-09-16"
 category: "Compras"
 categorySlug: "compras"
 tags: ["persiana", "blackout", "cortina", "janela", "home office"]

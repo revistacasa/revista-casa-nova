@@ -1,8 +1,8 @@
 ---
 title: "Como pendurar espelho: altura, bucha certa e segurança"
 slug: "como-pendurar-espelho"
-date: "2026-09-09"
-updated: "2026-08-25"
+date: "2026-08-26"
+updated: "2026-08-26"
 category: "Decoração"
 categorySlug: "decoracao"
 tags: ["espelho", "pendurar espelho", "altura do espelho", "bucha", "azulejo"]
