@@ -693,3 +693,7 @@ cover: "/images/uploads/2026/07/air-fryer-ou-microondas.png"
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Se a decisão já caiu para o lado da air fryer, o próximo passo é dominar o tempo: o guia de <a href="/artigos/air-fryer-tempos-e-temperaturas">tempos e temperaturas da air fryer</a> traz a tabela testada e um PDF grátis com 10 receitas para estrear o aparelho.</p>
+<!-- /wp:paragraph -->
